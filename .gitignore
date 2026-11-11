@@ -1,0 +1,13 @@
+data/raw/
+data/processed/
+.DS_Store
+__MACOSX/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+.spyproject/
+.spyderproject
+.ipynb_checkpoints/
